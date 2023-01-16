@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\C_Hash_prac\C_Hash_prac\bin\Debug\net6.0\C_Hash_prac.exe
+C:\Users\user\source\repos\C_Hash_prac\C_Hash_prac\bin\Debug\net6.0\C_Hash_prac.deps.json
+C:\Users\user\source\repos\C_Hash_prac\C_Hash_prac\bin\Debug\net6.0\C_Hash_prac.runtimeconfig.json
+C:\Users\user\source\repos\C_Hash_prac\C_Hash_prac\bin\Debug\net6.0\C_Hash_prac.dll
+C:\Users\user\source\repos\C_Hash_prac\C_Hash_prac\bin\Debug\net6.0\C_Hash_prac.pdb
+C:\Users\user\source\repos\C_Hash_prac\C_Hash_prac\obj\Debug\net6.0\C_Hash_prac.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\C_Hash_prac\C_Hash_prac\obj\Debug\net6.0\C_Hash_prac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\C_Hash_prac\C_Hash_prac\obj\Debug\net6.0\C_Hash_prac.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\C_Hash_prac\C_Hash_prac\obj\Debug\net6.0\C_Hash_prac.AssemblyInfo.cs
+C:\Users\user\source\repos\C_Hash_prac\C_Hash_prac\obj\Debug\net6.0\C_Hash_prac.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C_Hash_prac\C_Hash_prac\obj\Debug\net6.0\C_Hash_prac.dll
+C:\Users\user\source\repos\C_Hash_prac\C_Hash_prac\obj\Debug\net6.0\refint\C_Hash_prac.dll
+C:\Users\user\source\repos\C_Hash_prac\C_Hash_prac\obj\Debug\net6.0\C_Hash_prac.pdb
+C:\Users\user\source\repos\C_Hash_prac\C_Hash_prac\obj\Debug\net6.0\C_Hash_prac.genruntimeconfig.cache
+C:\Users\user\source\repos\C_Hash_prac\C_Hash_prac\obj\Debug\net6.0\ref\C_Hash_prac.dll
