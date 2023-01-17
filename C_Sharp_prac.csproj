@@ -10,12 +10,21 @@
   <ItemGroup>
     <Compile Remove="asAndis.cs" />
     <Compile Remove="Delegate.cs" />
+    <Compile Remove="DelegateExample.cs" />
+    <Compile Remove="interfaceCallback.cs" />
+    <Compile Remove="interfaceInheritance.cs" />
     <Compile Remove="Program.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="interfaceCallback.cs" />
+    <None Include="interfaceInheritance.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="asAndis.cs" />
     <None Include="Delegate.cs" />
+    <None Include="DelegateExample.cs" />
     <None Include="Program.cs" />
   </ItemGroup>
 

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\C_Hash_prac\\C_Hash_prac\\C_Hash_prac.csproj",
-      "projectName": "C_Hash_prac",
-      "projectPath": "C:\\Users\\user\\source\\repos\\C_Hash_prac\\C_Hash_prac\\C_Hash_prac.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\C_Hash_prac\\C_Hash_prac\\C_Sharp_prac.csproj",
+      "projectName": "C_Sharp_prac",
+      "projectPath": "C:\\Users\\user\\source\\repos\\C_Hash_prac\\C_Hash_prac\\C_Sharp_prac.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user\\source\\repos\\C_Hash_prac\\C_Hash_prac\\obj\\",
       "projectStyle": "PackageReference",
