@@ -14,6 +14,7 @@
     <Compile Remove="interfaceCallback.cs" />
     <Compile Remove="interfaceInheritance.cs" />
     <Compile Remove="Program.cs" />
+    <Compile Remove="struct.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -26,6 +27,7 @@
     <None Include="Delegate.cs" />
     <None Include="DelegateExample.cs" />
     <None Include="Program.cs" />
+    <None Include="struct.cs" />
   </ItemGroup>
 
 </Project>
