@@ -23,7 +23,10 @@
     <Compile Remove="interfaceInheritance.cs" />
     <Compile Remove="Program.cs" />
     <Compile Remove="refExample.cs" />
+    <Compile Remove="serialaizable.cs" />
+    <Compile Remove="socketBinding.cs" />
     <Compile Remove="struct.cs" />
+    <Compile Remove="Threading.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -37,7 +40,10 @@
     <None Include="DelegateExample.cs" />
     <None Include="Program.cs" />
     <None Include="refExample.cs" />
+    <None Include="serialaizable.cs" />
+    <None Include="socketBinding.cs" />
     <None Include="struct.cs" />
+    <None Include="Threading.cs" />
   </ItemGroup>
 
 </Project>
